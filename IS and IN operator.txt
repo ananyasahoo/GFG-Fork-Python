@@ -1,0 +1,6 @@
+def number_present(num, query):
+    #num is a 'list', query is a 'int'
+    for i in range (len(num)):    
+        if num[i] is query :
+            return True
+    return False 

@@ -1,0 +1,8 @@
+def do_operation(x, y):
+    # Your code here
+    print(x+y)
+    print(x-y)
+    print(x*y)
+    print(x/y)
+    print(x**y)
+    print(x//y)

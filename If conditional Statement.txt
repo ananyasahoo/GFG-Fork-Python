@@ -1,0 +1,6 @@
+def friends_in_trouble(a_angry, b_angry):
+    if ((a_angry == 1 and b_angry ==1) or ((a_angry == 0 and b_angry ==0))):
+        return True
+    else:
+        return False
+        
